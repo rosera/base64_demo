@@ -13,4 +13,5 @@ Enter an encoded JSON string and the application will attempt to decode the info
 An example JSON is used in the demo, but this can be amended for any structure required.
 
 Enter a code to select an adventure.
-![Base64 to JSON Code](https://github.com/rosera/flutter_base64/blob/main/screenshots/decode-base64.png "Mobile App")
+
+![Base64 to JSON Code](https://github.com/rosera/base64_demo/blob/main/screenshots/decode-base64.png "Mobile App")
