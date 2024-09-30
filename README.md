@@ -1,16 +1,16 @@
-# flutter_base64
+# Base64 Demo 
 
-A demo project for base64 decode.
+A quick example showing how to decode and parse JSON encoded as Base64. 
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+Passing information can be challenging.
+In some circumstances, its helpful to encode the payload as base64.
+When doing this remember a decode is required at the opposite end.
 
-A few resources to get you started if this is your first Flutter project:
+The example uses a JSON payload and encodess with base64. 
+Enter an encoded JSON string and the application will attempt to decode the information.
+An example JSON is used in the demo, but this can be amended for any structure required.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Enter a code to select an adventure.
+![Base64 to JSON Code](https://github.com/rosera/flutter_base64/blob/main/screenshots/decode-base64.png "Mobile App")
